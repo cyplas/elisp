@@ -1,2 +1,12 @@
 This repository consists of a few small extensions for GNU Emacs I
-wrote in Emacs Lisp (some years ago now).
+wrote in Emacs Lisp some years ago:
+
+ - estate.el: logs aspects of Emacs state
+ - fvwm-command.el: interface to FvwmCommand (and hence FVWM)
+ - marker-ring.el: management of buffer-local marker rings
+ - move-mode.el: minor mode for rapid read-only movement around buffers
+ - toggle-option.el: easily toggle frequently toggled options
+ - vocab-test.el: foreign language flashcard-style vocabulary-testing program
+
+For installation and usage instructions, see the individual libraries.
+
